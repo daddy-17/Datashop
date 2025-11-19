@@ -1,0 +1,5 @@
+{
+  "name": "Datahub Premium Store",
+  "description": "A complete data bundle store with wallet system, admin dashboard, and custom pricing logic simulating a Datamart integration.",
+  "requestFramePermissions": []
+}
